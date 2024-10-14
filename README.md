@@ -1,2 +1,2 @@
-# matlab
-Exemples de codis per generar gràfics en Matlab
+# Exemples Matlab
+Exemples de codis per generar gràfics en Matlab.
